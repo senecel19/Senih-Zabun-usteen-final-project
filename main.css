@@ -151,3 +151,10 @@ a {
 .bcard__footer-icon:last_of_type{
   margin-right: 0;
 }
+
+@media (max-width:75opx){
+  .main {
+    height: auto;
+  }
+
+}
